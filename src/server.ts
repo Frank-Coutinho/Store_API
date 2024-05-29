@@ -1,5 +1,5 @@
 import Fastify from "fastify";
-import { ErrorHandler } from "./middleware/errorHandler";
+import { ErrorHandler } from "./middleware/ErrorHandler";
 
 const fastify = Fastify({});
 
